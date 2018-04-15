@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Shang-Yu Su]]></title><description><![CDATA[master's student in National Taiwan University, research interests cover Deep Learning, Natural Language Processing, and dialogue systems.]]></description><link>https://www.shangyusu.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 31 Mar 2018 18:23:00 GMT</lastBuildDate><item><title><![CDATA[How Time Matters: Learning Time-Decay Attention for Contextual Spoken Language Understanding in Dialogues]]></title><description><![CDATA[Shang-Yu Su, Pei-Chieh Yuan, and Yun-Nung Chen]]></description><link>https://www.shangyusu.com/posts/naacl2018-nlu/</link><guid isPermaLink="false">https://www.shangyusu.com/posts/naacl2018-nlu/</guid><pubDate>Sat, 03 Feb 2018 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Cite the paper:&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Shang-Yu Su]]></title><description><![CDATA[master's student in National Taiwan University, research interests cover Deep Learning, Natural Language Processing, and dialogue systems.]]></description><link>https://www.shangyusu.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 15 Apr 2018 11:13:43 GMT</lastBuildDate><item><title><![CDATA[How Time Matters: Learning Time-Decay Attention for Contextual Spoken Language Understanding in Dialogues]]></title><description><![CDATA[Shang-Yu Su, Pei-Chieh Yuan, and Yun-Nung Chen]]></description><link>https://www.shangyusu.com/posts/naacl2018-nlu/</link><guid isPermaLink="false">https://www.shangyusu.com/posts/naacl2018-nlu/</guid><pubDate>Sat, 03 Feb 2018 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Cite the paper:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
       &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;@inproceedings{su2018how,
   title={How time matters: Learning Time-Decay Attention for Contextual Spoken Language Understanding in Dialogues},
     author={Shang-Yu Su, Pei-Chieh Yuan, and Yun-Nung Chen},
-    booktitle={Proceedings of NAACL-HLT},
+    booktitle={Proceedings of The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
     year={2018}
 }&lt;/code&gt;&lt;/pre&gt;
       &lt;/div&gt;
@@ -17,7 +17,7 @@ The experiments on the benchmark Dialogue State Tracking Challenge (DSTC4) datas
       &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;@inproceedings{su2018natural,
   title={Natural Language Generation by Hierarchical Decoding with Linguistic Patterns},
     author={Shang-Yu Su, Kai-Ling Lo, Yi-Ting Yeh, and Yun-Nung Chen},
-    booktitle={Proceedings of NAACL-HLT},
+    booktitle={Proceedings of The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
     year={2018}
 }&lt;/code&gt;&lt;/pre&gt;
       &lt;/div&gt;
@@ -30,7 +30,12 @@ Classic NLG can be divided into two phases: &lt;/p&gt;
 &lt;p&gt;Many simple NLG models are based on recurrent neural networks (RNN) and sequence-to-sequence (seq2seq) model, which basically contains a encoder-decoder structure; these NLG models generate sentences from scratch by jointly optimizing sentence planning and surface realization using a simple cross entropy loss training criterion.&lt;/p&gt;
 &lt;p&gt;However, the simple encoder-decoder architecture usually suffers from generating complex and long sentences, because the decoder has to learn all grammar and diction knowledge.&lt;/p&gt;
 &lt;p&gt;This paper introduces a hierarchical decoding NLG model based on linguistic patterns in different levels, and shows that the proposed method outperforms the traditional one with a smaller model size.
-Furthermore, the design of the hierarchical decoding is flexible and easily-extendible in various NLG systems (The source code is available at &lt;a href=&quot;https://github.com/MiuLab/HNLG&quot;&gt;https://github.com/MiuLab/HNLG&lt;/a&gt;).&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dynamic Time-Aware Attention to Speaker Roles and Contexts for Spoken Language Understanding]]></title><description><![CDATA[Po-Chun Chen*, Ta-Chung Chi*, Shang-Yu Su*, and Yun-Nung Chen (co-first author)]]></description><link>https://www.shangyusu.com/posts/asru2017/</link><guid isPermaLink="false">https://www.shangyusu.com/posts/asru2017/</guid><pubDate>Sat, 02 Sep 2017 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Cite the paper:&lt;/p&gt;
+Furthermore, the design of the hierarchical decoding is flexible and easily-extendible in various NLG systems (The source code is available at &lt;a href=&quot;https://github.com/MiuLab/HNLG&quot;&gt;https://github.com/MiuLab/HNLG&lt;/a&gt;).&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dynamic Time-Aware Attention to Speaker Roles and Contexts for Spoken Language Understanding]]></title><description><![CDATA[Po-Chun Chen*, Ta-Chung Chi*, Shang-Yu Su*, and Yun-Nung Chen (co-first author)]]></description><link>https://www.shangyusu.com/posts/asru2017/</link><guid isPermaLink="false">https://www.shangyusu.com/posts/asru2017/</guid><pubDate>Sat, 02 Sep 2017 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Full paper:
+&lt;a href=&quot;https://arxiv.org/abs/1710.00165&quot; target=&quot;_blank&quot;&gt;arXiv&lt;/a&gt;,
+&lt;a href=&quot;https://ieeexplore.ieee.org/document/8268985/&quot; target=&quot;_blank&quot;&gt;IEEE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Code:
+&lt;a href=&quot;https://github.com/MiuLab/Time-SLU&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cite the paper:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
       &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;@inproceedings{chen2017dynamic,
   title={Dynamic Time-Aware Attention to Speaker Roles and Contexts for Spoken Language Understanding},
@@ -46,7 +51,12 @@ However, the previous models only paid attention to the content in history utter
 &lt;p&gt;In dialogues, the most recent utterances should be more important than the least recent ones.
 Furthermore, users usually pay attention to 1) self history for reasoning and 2) others’ utterances for listening, the speaker of the utterances may provides informative cues to help understanding.&lt;/p&gt;
 &lt;p&gt;Therefore, this paper proposes an attention-based network that additionally leverages temporal information and speaker role for better SLU, where the attention to contexts and speaker roles can be automatically learned in an end-to-end manner.
-The experiments on the benchmark Dialogue State Tracking Challenge 4 (DSTC4) dataset show that the time-aware dynamic role attention networks significantly improve the understanding performance (The released code: &lt;a href=&quot;https://github.com/MiuLab/Time-SLU&quot;&gt;https://github.com/MiuLab/Time-SLU&lt;/a&gt;).&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Speaker Role Contextual Modeling for Language Understanding and Dialogue Policy Learning]]></title><description><![CDATA[Ta-Chung Chi*, Po-Chun Chen*, Shang-Yu Su*, and Yun-Nung Chen (co-first author)]]></description><link>https://www.shangyusu.com/posts/humane-typography-in-the-digital-age/</link><guid isPermaLink="false">https://www.shangyusu.com/posts/humane-typography-in-the-digital-age/</guid><pubDate>Sat, 19 Aug 2017 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Cite the paper:&lt;/p&gt;
+The experiments on the benchmark Dialogue State Tracking Challenge 4 (DSTC4) dataset show that the time-aware dynamic role attention networks significantly improve the understanding performance (The released code: &lt;a href=&quot;https://github.com/MiuLab/Time-SLU&quot;&gt;https://github.com/MiuLab/Time-SLU&lt;/a&gt;).&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Speaker Role Contextual Modeling for Language Understanding and Dialogue Policy Learning]]></title><description><![CDATA[Ta-Chung Chi*, Po-Chun Chen*, Shang-Yu Su*, and Yun-Nung Chen (co-first author)]]></description><link>https://www.shangyusu.com/posts/humane-typography-in-the-digital-age/</link><guid isPermaLink="false">https://www.shangyusu.com/posts/humane-typography-in-the-digital-age/</guid><pubDate>Sat, 19 Aug 2017 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Full paper:
+&lt;a href=&quot;https://arxiv.org/abs/1710.00164&quot; target=&quot;_blank&quot;&gt;arXiv&lt;/a&gt;,
+&lt;a href=&quot;https://http://aclweb.org/anthology/I17-2028&quot; target=&quot;_blank&quot;&gt;ACL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Code:
+&lt;a href=&quot;https://github.com/MiuLab/Spk-Dialogue&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cite the paper:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;
       &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;@inproceedings{chi2017speaker,
   author    = {Ta-Chung Chi and Po-Chun Chen and Shang-Yu Su and Yun-Nung Chen},
