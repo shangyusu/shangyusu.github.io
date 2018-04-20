@@ -7,7 +7,6 @@
 <url> <loc>https://www.shangyusu.com/tags/attention/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/categories/nlu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/posts/humane-typography-in-the-digital-age/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.shangyusu.com/posts/naacl2018-nlu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/posts/naacl2018-nlg/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -15,6 +14,7 @@
 <url> <loc>https://www.shangyusu.com/tags/hierarchical-decoding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/tags/seq-2-seq/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/categories/nlg/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.shangyusu.com/posts/naacl2018-nlu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/publications/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
