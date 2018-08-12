@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---tags-hierarchical-decoding": [
-      "path---tags-hierarchical-decoding-71f5f722c8a901934813.js",
-      "path---tags-hierarchical-decoding-71f5f722c8a901934813.js.map"
+      "path---tags-hierarchical-decoding-20da54e14325e7d3b1ed.js",
+      "path---tags-hierarchical-decoding-20da54e14325e7d3b1ed.js.map"
     ],
     "component---src-templates-tag-template-jsx": [
       "component---src-templates-tag-template-jsx-06fbd3473ea34e10770a.js",
@@ -13,60 +13,64 @@
       "component---src-templates-page-template-jsx-994fa15cdac2f9049e27.js.map"
     ],
     "path---posts-naacl-2018-nlg": [
-      "path---posts-naacl-2018-nlg-ef1d63304357d66a3f3c.js",
-      "path---posts-naacl-2018-nlg-ef1d63304357d66a3f3c.js.map"
+      "path---posts-naacl-2018-nlg-c7fd75f5c87f2a19e94f.js",
+      "path---posts-naacl-2018-nlg-c7fd75f5c87f2a19e94f.js.map"
     ],
     "path---tags-nlu": [
-      "path---tags-nlu-9b3822e50aaa21ca460e.js",
-      "path---tags-nlu-9b3822e50aaa21ca460e.js.map"
+      "path---tags-nlu-d00a1a7bfbcfc07fb210.js",
+      "path---tags-nlu-d00a1a7bfbcfc07fb210.js.map"
     ],
     "path---publications": [
-      "path---publications-6ec0b470947802be93e2.js",
-      "path---publications-6ec0b470947802be93e2.js.map"
+      "path---publications-4c424db8f1ba2d6144ca.js",
+      "path---publications-4c424db8f1ba2d6144ca.js.map"
     ],
     "path---posts-humane-typography-in-the-digital-age": [
-      "path---posts-humane-typography-in-the-digital-age-7f02e29ff18b9d6b934c.js",
-      "path---posts-humane-typography-in-the-digital-age-7f02e29ff18b9d6b934c.js.map"
+      "path---posts-humane-typography-in-the-digital-age-30795b753729da998af9.js",
+      "path---posts-humane-typography-in-the-digital-age-30795b753729da998af9.js.map"
     ],
     "path---categories": [
-      "path---categories-e6d2bf9e339dec682a15.js",
-      "path---categories-e6d2bf9e339dec682a15.js.map"
+      "path---categories-8e41ff35c6692f97625a.js",
+      "path---categories-8e41ff35c6692f97625a.js.map"
     ],
     "component---src-pages-tags-jsx": [
       "component---src-pages-tags-jsx-e1306667a369780294ff.js",
       "component---src-pages-tags-jsx-e1306667a369780294ff.js.map"
     ],
     "path---tags-dialogue": [
-      "path---tags-dialogue-e9fef33319fa83c49690.js",
-      "path---tags-dialogue-e9fef33319fa83c49690.js.map"
+      "path---tags-dialogue-977cea490cdd657b7c86.js",
+      "path---tags-dialogue-977cea490cdd657b7c86.js.map"
     ],
     "path---tags-seq-2-seq": [
-      "path---tags-seq-2-seq-504f483b534930e3e552.js",
-      "path---tags-seq-2-seq-504f483b534930e3e552.js.map"
+      "path---tags-seq-2-seq-b0912cd5e4dc2e2d79d3.js",
+      "path---tags-seq-2-seq-b0912cd5e4dc2e2d79d3.js.map"
     ],
     "path---tags": [
-      "path---tags-8d998e04544cdd1ef7bc.js",
-      "path---tags-8d998e04544cdd1ef7bc.js.map"
+      "path---tags-aed111f9c38a8370aea4.js",
+      "path---tags-aed111f9c38a8370aea4.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---posts-asru-2017": [
-      "path---posts-asru-2017-ffc0572cf787fa2826c1.js",
-      "path---posts-asru-2017-ffc0572cf787fa2826c1.js.map"
+      "path---posts-asru-2017-bf9bf8ff2d435ec08bf5.js",
+      "path---posts-asru-2017-bf9bf8ff2d435ec08bf5.js.map"
     ],
     "path---posts-naacl-2018-nlu": [
-      "path---posts-naacl-2018-nlu-ccaa7f44f7e10f4c02ab.js",
-      "path---posts-naacl-2018-nlu-ccaa7f44f7e10f4c02ab.js.map"
+      "path---posts-naacl-2018-nlu-97c069ff165dc16c1227.js",
+      "path---posts-naacl-2018-nlu-97c069ff165dc16c1227.js.map"
     ],
     "path---tags-reinforcement-learning": [
-      "path---tags-reinforcement-learning-7a7821cf4c946136599b.js",
-      "path---tags-reinforcement-learning-7a7821cf4c946136599b.js.map"
+      "path---tags-reinforcement-learning-2b91eff95ee0bd2960a2.js",
+      "path---tags-reinforcement-learning-2b91eff95ee0bd2960a2.js.map"
     ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-f16403c5c45be7c23358.js",
       "component---src-layouts-index-jsx-f16403c5c45be7c23358.js.map"
+    ],
+    "path---posts-emnlp-2018-d-3-q": [
+      "path---posts-emnlp-2018-d-3-q-463db6488a546234ce6d.js",
+      "path---posts-emnlp-2018-d-3-q-463db6488a546234ce6d.js.map"
     ],
     "component---src-templates-category-template-jsx": [
       "component---src-templates-category-template-jsx-cf1c8b990648253d5738.js",
@@ -81,25 +85,25 @@
       "component---src-templates-post-template-jsx-0f7177679bfa8f8d2bb4.js.map"
     ],
     "path---categories-nlu": [
-      "path---categories-nlu-cdd27a137e9c7f0aab28.js",
-      "path---categories-nlu-cdd27a137e9c7f0aab28.js.map"
+      "path---categories-nlu-f21893703149644d24e7.js",
+      "path---categories-nlu-f21893703149644d24e7.js.map"
     ],
     "component---src-pages-categories-jsx": [
       "component---src-pages-categories-jsx-dc892dc56898ecd4183e.js",
       "component---src-pages-categories-jsx-dc892dc56898ecd4183e.js.map"
     ],
     "path---index": [
-      "path---index-c03aef5cd23cc2f9e106.js",
-      "path---index-c03aef5cd23cc2f9e106.js.map"
+      "path---index-cc6dd075844eb0f5a83e.js",
+      "path---index-cc6dd075844eb0f5a83e.js.map"
     ],
     "component---src-pages-publications-jsx": [
       "component---src-pages-publications-jsx-af5d766b03f94c42c9f0.js",
       "component---src-pages-publications-jsx-af5d766b03f94c42c9f0.js.map"
     ],
     "commons": [
-      "commons-570b90d4259e4b0fa451.js",
+      "commons-4f98f25c795419416ebd.js",
       "build-js-styles.css",
-      "commons-570b90d4259e4b0fa451.js.map",
+      "commons-4f98f25c795419416ebd.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -111,12 +115,12 @@
       "component---src-pages-404-jsx-3d0441dd1a11b2f3a35b.js.map"
     ],
     "path---contact": [
-      "path---contact-32699af0bca0eb1602a4.js",
-      "path---contact-32699af0bca0eb1602a4.js.map"
+      "path---contact-27bab2fd0af546c1acc7.js",
+      "path---contact-27bab2fd0af546c1acc7.js.map"
     ],
     "path---tags-nlg": [
-      "path---tags-nlg-45407599e785c0749e29.js",
-      "path---tags-nlg-45407599e785c0749e29.js.map"
+      "path---tags-nlg-7f71186d9efa76aa7cbf.js",
+      "path---tags-nlg-7f71186d9efa76aa7cbf.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -127,36 +131,36 @@
       "component---src-pages-index-jsx-6ea8769e772c4c31c61d.js.map"
     ],
     "app": [
-      "app-e73ecba7fb516e1ab791.js",
-      "app-e73ecba7fb516e1ab791.js.map"
+      "app-19b4532b8ddabc7df054.js",
+      "app-19b4532b8ddabc7df054.js.map"
     ],
     "path---categories-rl": [
-      "path---categories-rl-1438f582ad7ed8cb50fe.js",
-      "path---categories-rl-1438f582ad7ed8cb50fe.js.map"
+      "path---categories-rl-bb85ab465e7238ad8e4a.js",
+      "path---categories-rl-bb85ab465e7238ad8e4a.js.map"
     ],
     "path---posts-acl-2018-ddq": [
-      "path---posts-acl-2018-ddq-a48862258b8bdf431d7e.js",
-      "path---posts-acl-2018-ddq-a48862258b8bdf431d7e.js.map"
+      "path---posts-acl-2018-ddq-86974e4918ee51252ac2.js",
+      "path---posts-acl-2018-ddq-86974e4918ee51252ac2.js.map"
     ],
     "path---tags-dialogue-policy": [
-      "path---tags-dialogue-policy-1e168ac9d6bf41819132.js",
-      "path---tags-dialogue-policy-1e168ac9d6bf41819132.js.map"
+      "path---tags-dialogue-policy-f9fd39ccbea7fbf31819.js",
+      "path---tags-dialogue-policy-f9fd39ccbea7fbf31819.js.map"
     ],
     "path---404": [
       "path---404-966e9ce6bcae77b85cec.js",
       "path---404-966e9ce6bcae77b85cec.js.map"
     ],
     "path---categories-nlg": [
-      "path---categories-nlg-223883116d68cefae21d.js",
-      "path---categories-nlg-223883116d68cefae21d.js.map"
+      "path---categories-nlg-538c30bddb51099fdeaa.js",
+      "path---categories-nlg-538c30bddb51099fdeaa.js.map"
     ],
     "path---about": [
-      "path---about-4c4c761bf6b12b24948e.js",
-      "path---about-4c4c761bf6b12b24948e.js.map"
+      "path---about-23df162078a85146bc01.js",
+      "path---about-23df162078a85146bc01.js.map"
     ],
     "path---tags-attention": [
-      "path---tags-attention-da1ebe2b7fb5e41b39b7.js",
-      "path---tags-attention-da1ebe2b7fb5e41b39b7.js.map"
+      "path---tags-attention-f72337da19911ba4f51a.js",
+      "path---tags-attention-f72337da19911ba4f51a.js.map"
     ]
   }
 }
