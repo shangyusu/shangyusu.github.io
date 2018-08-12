@@ -7,6 +7,9 @@ class Post extends React.Component {
   render() {
     const { title, date, category, description, conference } = this.props.data.node.frontmatter;
     const { slug, categorySlug } = this.props.data.node.fields;
+
+    let d = description.split("Shang-Yu Su");
+
     /*
     return (
       <div className="post">
@@ -29,6 +32,7 @@ class Post extends React.Component {
       </div>
     );
     */
+    /*
     return (
       <div className="post">
         <div className="post__meta">
@@ -46,6 +50,30 @@ class Post extends React.Component {
           <Link className="post__title-link" to={slug}>{title}</Link>
         </h2>
         <p className="post__description">{description}</p>
+      </div>
+    );
+    */
+    return (
+      <div className="post">
+        <div className="post__meta">
+          <span className="post__meta-time">
+            {conference}
+          </span>
+          <span className="post__meta-divider" />
+          <span className="post__meta-category" key={categorySlug}>
+            <Link to={categorySlug} className="post__meta-category-link">
+              {category}
+            </Link>
+          </span>
+        </div>
+        <h2 className="post__title">
+          <Link className="post__title-link" to={slug}>{title}</Link>
+        </h2>
+        <p className="post__description">
+          <p style={{display: "inline"}}>{d[0]}</p>
+          <p style={{fontWeight: "bolder", display: "inline"}}>Shang-Yu Su</p>
+          <p style={{display: "inline"}}>{d[1]}</p>
+        </p>
       </div>
     );
   }

@@ -14,7 +14,8 @@ description: "Shang-Yu Su*, Kai-Ling Lo*, Yi-Ting Yeh, and Yun-Nung Chen (co-fir
 ---
 
 Full paper:
-<a href="./naacl-hlt-2018-nlg-camera-ready.pdf" target="_blank">Here</a>
+<a href="./naacl-hlt-2018-nlg.pdf" target="_blank">Here</a>,
+<a href="https://arxiv.org/abs/1808.02747" target="_blank">arXiv</a>
 
 Code: 
 <a href="https://github.com/MiuLab/HNLG" target="_blank">GitHub</a>

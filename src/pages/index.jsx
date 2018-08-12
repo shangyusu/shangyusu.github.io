@@ -53,7 +53,7 @@ class IndexRoute extends React.Component {
                   Su is a master's student in the department of electrical engineering in National Taiwan University, computer science track;
                   he received his bachelor degree from the same department as well.
                   <b> He is working with Prof.<a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen </a> on the research of Natural Language Processing,
-                  Deep Learning, and dialogue systems. </b> <b> He is now on the internship at Microsoft, Redmond, as a research intern. </b> 
+                  Deep Learning, and dialogue systems. </b> He was a research intern at Microsoft, Redmond. 
                   Before starting doing research, he also joined Yahoo! and Microsoft in Taiwan as a software engineering intern.
                 </p> 
                 <p>
