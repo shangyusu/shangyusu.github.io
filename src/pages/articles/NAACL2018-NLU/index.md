@@ -13,6 +13,8 @@ tags:
 description: "Shang-Yu Su, Pei-Chieh Yuan, and Yun-Nung Chen"
 ---
 
+<b>This paper is published in Proceedings of The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2018).</b>
+
 Full paper:
 <a href="./naacl-hlt-2018-nlu-camera-ready.pdf" target="_blank">Here</a>
 

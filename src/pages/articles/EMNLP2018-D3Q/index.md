@@ -13,5 +13,11 @@ tags:
 description: "Shang-Yu Su, Xiujun Li, Jianfeng Gao, Jingjing Liu and Yun-Nung Chen"
 ---
 
+<b>This paper is published in Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018).</b>
+
+Full paper:
+<a href="./emnlp-2018-d3q.pdf" target="_blank">Here</a>,
+<a href="https://arxiv.org/abs/1808.09442" target="_blank">arXiv</a>
+
 
 This paper presents a Discriminative Deep Dyna-Q (D3Q) approach to improving the effectiveness and robustness of DDQ, a recently proposed framework that extends the Dyna-Q algorithm to integrate planning for task-completion dialogue policy learning. To obviate DDQ's high dependency on the quality of simulated experiences, we incorporate an RNN-based discriminator in D3Q to differentiate simulated experience from real user experience in order to control the quality of training data. Experiments show that D3Q significantly outperforms DDQ by controlling the quality of simulated experience used for planning. The effectiveness and robustness of D3Q is further demonstrated in a domain extension setting, where the agent's capability of adapting to a changing environment is tested.

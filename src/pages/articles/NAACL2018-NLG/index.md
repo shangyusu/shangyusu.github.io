@@ -13,6 +13,9 @@ tags:
 description: "Shang-Yu Su*, Kai-Ling Lo*, Yi-Ting Yeh, and Yun-Nung Chen (co-first author)"
 ---
 
+<b>This paper is published in Proceedings of The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2018).</b>
+
+
 Full paper:
 <a href="./naacl-hlt-2018-nlg.pdf" target="_blank">Here</a>,
 <a href="https://arxiv.org/abs/1808.02747" target="_blank">arXiv</a>

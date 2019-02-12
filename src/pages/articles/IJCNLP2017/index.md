@@ -9,11 +9,14 @@ conference: "IJCNLP 2017"
 tags:
   - "Dialogue"
   - "NLU"
-description: "Ta-Chung Chi*, Po-Chun Chen*, Shang-Yu Su*, and Yun-Nung Chen (co-first author)"
+description: "Shang-Yu Su*, Ta-Chung Chi*, Po-Chun Chen*, and Yun-Nung Chen (co-first author)"
 ---
+
+<b>This paper is published in Proceedings of The 8th International Joint Conference on Natural Language Processing (IJCNLP 2017).</b>
+
 Full paper:
 <a href="https://arxiv.org/abs/1710.00164" target="_blank">arXiv</a>,
-<a href="https://http://aclweb.org/anthology/I17-2028" target="_blank">ACL</a>
+<a href="https://aclweb.org/anthology/I17-2028" target="_blank">ACL</a>
 
 Code: 
 <a href="https://github.com/MiuLab/Spk-Dialogue" target="_blank">GitHub</a>

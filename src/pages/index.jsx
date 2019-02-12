@@ -3,7 +3,7 @@ import Helmet from 'react-helmet';
 import Post from '../components/Post';
 import Sidebar from '../components/Sidebar';
 import Link from 'gatsby-link';
-import profilePic from './index_photo.jpg';
+import profilePic from './index_photo.png';
 import resume from './resume.pdf';
 
 
@@ -50,11 +50,11 @@ class IndexRoute extends React.Component {
               <div style={{ width: "60%" }}>
                 <p>
                   Shang-Yu Su (蘇上育) was born in Kaohsiung, Taiwan. 
-                  Su is a master's student in the department of electrical engineering in National Taiwan University, computer science track;
-                  he received his bachelor degree from the same department as well.
-                  <b> He is working with Prof.<a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen </a> on the research of Natural Language Processing,
-                  Deep Learning, and dialogue systems. </b> He was a research intern at Microsoft, Redmond. 
-                  Before starting doing research, he also joined Yahoo! and Microsoft in Taiwan as a software engineering intern.
+                  Su is a PhD student in the department of Computer Science and Information Engineering in National Taiwan University;
+                  he received his bachelor degree from the department of Electrical Engineering.
+                  <b> He is working with Prof.<a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen </a> on various research topics about Natural Language Processing,
+                  Deep Learning, and dialogue systems. </b> He was a research intern at Microsoft, Redmond,
+                  before starting doing research, he also joined Yahoo! and Microsoft in Taiwan as a software engineering intern.
                 </p> 
                 <p>
                   For more details, check out my full <a href={resume} target="_blank">CV/resume </a>

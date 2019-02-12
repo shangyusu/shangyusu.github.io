@@ -10,8 +10,12 @@ tags:
   - "Dialogue"
   - "NLU"
   - "Attention"
-description: "Po-Chun Chen*, Ta-Chung Chi*, Shang-Yu Su*, and Yun-Nung Chen (co-first author)"
+description: "Shang-Yu Su*, Po-Chun Chen*, Ta-Chung Chi*, and Yun-Nung Chen (co-first author)"
 ---
+
+
+<b>This paper is published in Proceedings of 2017 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU 2017).</b>
+
 Full paper:
 <a href="https://arxiv.org/abs/1710.00165" target="_blank">arXiv</a>,
 <a href="https://ieeexplore.ieee.org/document/8268985/" target="_blank">IEEE</a>

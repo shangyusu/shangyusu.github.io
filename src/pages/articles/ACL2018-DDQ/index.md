@@ -13,6 +13,8 @@ tags:
 description: "Baolin Peng, Xiujun Li, Jianfeng Gao, Jingjing Liu, Kam-Fai Wong, and Shang-Yu Su"
 ---
 
+<b>This paper is published in Proceedings of The 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018).</b>
+
 Full paper:
 <a href="./acl-2018-deep.pdf" target="_blank">Here</a>,
 <a href="https://arxiv.org/abs/1801.06176" target="_blank">arXiv</a>
