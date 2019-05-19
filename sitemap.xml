@@ -37,6 +37,8 @@
 <url> <loc>https://www.shangyusu.com/tags/music-information-retrieval/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/tags/generation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/categories/mir/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.shangyusu.com/posts/acl2019-dsl/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.shangyusu.com/categories/nlu-nlg/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/publications/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
