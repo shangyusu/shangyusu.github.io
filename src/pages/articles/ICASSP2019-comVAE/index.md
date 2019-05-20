@@ -11,6 +11,9 @@ tags:
 description: "Shang-Yu Su, Shan-Wei Lin, and Yun-Nung Chen"
 ---
 
+<b>This paper is published in the in Proceedings of The 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2019), Brighton, U.K., May 12-17, 2019. IEEE.</b>
+
+
 Full paper:
 <a href="./ICASSP_ComVAE.pdf" target="_blank">Here</a>
 

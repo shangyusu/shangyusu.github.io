@@ -13,6 +13,9 @@ tags:
 description: "Yu-An Wang*, Yu-Kai Huang*, Tzu-Chuan Lin*, Shang-Yu Su, and Yun-Nung Chen"
 ---
 
+<b>This paper is published in the in Proceedings of The 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2019), Brighton, U.K., May 12-17, 2019. IEEE.</b>
+
+
 Full paper:
 <a href="./ICASSP_2019___Music_Generation.pdf" target="_blank">Here</a>,
 <a href="https://arxiv.org/abs/1811.00162" target="_blank">arXiv</a>

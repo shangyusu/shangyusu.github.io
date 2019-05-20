@@ -4,7 +4,7 @@ import Post from '../components/Post';
 import Sidebar from '../components/Sidebar';
 import Link from 'gatsby-link';
 import profilePic from './index_photo.png';
-import resume from './resume.pdf';
+import resume from './shang-yu_resume_20190520.pdf';
 
 
 class IndexRoute extends React.Component {
@@ -53,8 +53,10 @@ class IndexRoute extends React.Component {
                   Su is a PhD student in the department of Computer Science and Information Engineering in National Taiwan University;
                   he received his bachelor degree from the department of Electrical Engineering.
                   <b> He is working with Prof.<a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen </a> on various research topics about Natural Language Processing,
-                  Deep Learning, and dialogue systems. </b> He was a research intern at Microsoft, Redmond,
-                  before starting doing research, he also joined Yahoo! and Microsoft in Taiwan as a software engineering intern.
+                  Deep Learning, and dialogue systems. </b> 
+                  <b> He is a applied scientist intern at Amazon, Sunnyvale (Alexa AI). </b> 
+                  He was a research intern at Microsoft, Redmond.
+                  Before starting doing research, he also joined Yahoo! and Microsoft in Taiwan as a software engineering intern.
                 </p> 
                 <p>
                   For more details, check out my full <a href={resume} target="_blank">CV/resume </a>
