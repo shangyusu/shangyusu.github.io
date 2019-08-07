@@ -4,7 +4,7 @@ import Post from '../components/Post';
 import Sidebar from '../components/Sidebar';
 import Link from 'gatsby-link';
 import profilePic from './index_photo.png';
-import resume from './shang-yu_resume_20190520.pdf';
+import resume from './shang-yu_resume_20190806.pdf';
 
 
 class IndexRoute extends React.Component {
@@ -34,7 +34,7 @@ class IndexRoute extends React.Component {
     );
     */
    
-    const cvLink = "https://drive.google.com/open?id=1txJy3CpGJBuSMqwHNsUS8TXjU_KvZOi9";
+    // const cvLink = "https://drive.google.com/open?id=1txJy3CpGJBuSMqwHNsUS8TXjU_KvZOi9";
     const vivianLink = "https://www.csie.ntu.edu.tw/~yvchen/index.html";
 
     return (
@@ -54,11 +54,11 @@ class IndexRoute extends React.Component {
                   he received his bachelor degree from the department of Electrical Engineering.
                   <b> He is working with Prof.<a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen </a> on various research topics about Natural Language Processing,
                   Deep Learning, and dialogue systems. </b> 
-                  <b> He is a applied scientist intern at Amazon, Sunnyvale (Alexa AI). </b> 
-                  He was a research intern at Microsoft, Redmond.
+                  <b> He is an applied scientist intern at Amazon, Sunnyvale (Alexa AI), working with Dilek Hakkani-Tur and Mihail Eric. </b> 
+                  Previously, he interned at Microsoft, Redmond, advised by Jianfeng Gao and Xiujun Li.
+                  <br/>
                   Before starting doing research, he also joined Yahoo! and Microsoft in Taiwan as a software engineering intern.
-                </p> 
-                <p>
+                  <br/>
                   For more details, check out my full <a href={resume} target="_blank">CV/resume </a>
                   and also feel free to contact me via email: <a href="mailto:shangyusu.tw@gmail.com">shangyusu.tw@gmail.com.</a> 
                 </p>
