@@ -29,8 +29,8 @@
       "path---tags-nlu-ca511fbc9f809e2319dd.js.map"
     ],
     "path---publications": [
-      "path---publications-cf639f85275feff0ebeb.js",
-      "path---publications-cf639f85275feff0ebeb.js.map"
+      "path---publications-865965a16dc87287c259.js",
+      "path---publications-865965a16dc87287c259.js.map"
     ],
     "path---categories-mir": [
       "path---categories-mir-2ee3ee2b004d5b048ace.js",
@@ -41,8 +41,8 @@
       "path---posts-humane-typography-in-the-digital-age-1e8a445580b3a210811f.js.map"
     ],
     "path---categories": [
-      "path---categories-17b027cf06b913127425.js",
-      "path---categories-17b027cf06b913127425.js.map"
+      "path---categories-09cae92aa8a13fe50a62.js",
+      "path---categories-09cae92aa8a13fe50a62.js.map"
     ],
     "component---src-pages-tags-jsx": [
       "component---src-pages-tags-jsx-e1306667a369780294ff.js",
@@ -57,8 +57,12 @@
       "path---tags-seq-2-seq-a9efe4f1f1c4b1e8b669.js.map"
     ],
     "path---tags": [
-      "path---tags-ca6ed4eb921a80f422fa.js",
-      "path---tags-ca6ed4eb921a80f422fa.js.map"
+      "path---tags-4e719e4189077941ae2f.js",
+      "path---tags-4e719e4189077941ae2f.js.map"
+    ],
+    "path---tags-ai": [
+      "path---tags-ai-a8d47db4fe1a414980c0.js",
+      "path---tags-ai-a8d47db4fe1a414980c0.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -117,8 +121,8 @@
       "component---src-pages-categories-jsx-dc892dc56898ecd4183e.js.map"
     ],
     "path---index": [
-      "path---index-b5e2906bd1fd4b7d970a.js",
-      "path---index-b5e2906bd1fd4b7d970a.js.map"
+      "path---index-ce7aa997f97f19f4ec95.js",
+      "path---index-ce7aa997f97f19f4ec95.js.map"
     ],
     "component---src-pages-publications-jsx": [
       "component---src-pages-publications-jsx-6a5f9c2cb9c2fd2ecd08.js",
@@ -141,6 +145,10 @@
     "path---categories-nlu-nlg": [
       "path---categories-nlu-nlg-45a955cbe06dfeaf19cc.js",
       "path---categories-nlu-nlg-45a955cbe06dfeaf19cc.js.map"
+    ],
+    "path---posts-book-ai": [
+      "path---posts-book-ai-3a0366761841e59721a1.js",
+      "path---posts-book-ai-3a0366761841e59721a1.js.map"
     ],
     "path---posts-aaai-2019-dstc-7-avsd": [
       "path---posts-aaai-2019-dstc-7-avsd-c08721bd0bfe1edbe973.js",
@@ -190,13 +198,17 @@
       "path---categories-dialogue-d7bf66151ee6b322dc47.js",
       "path---categories-dialogue-d7bf66151ee6b322dc47.js.map"
     ],
+    "path---tags-book": [
+      "path---tags-book-9a7b4547b444e9324579.js",
+      "path---tags-book-9a7b4547b444e9324579.js.map"
+    ],
     "path---posts-icassp-2019-comvae": [
       "path---posts-icassp-2019-comvae-9189bb1afce646cbee52.js",
       "path---posts-icassp-2019-comvae-9189bb1afce646cbee52.js.map"
     ],
     "app": [
-      "app-68f30f18772331080d9a.js",
-      "app-68f30f18772331080d9a.js.map"
+      "app-f566ec5d9f3d060d6b10.js",
+      "app-f566ec5d9f3d060d6b10.js.map"
     ],
     "path---categories-rl": [
       "path---categories-rl-54c67b09b73f760f0ff5.js",
@@ -225,6 +237,10 @@
     "path---tags-visual": [
       "path---tags-visual-1f0357b5bb197bfc0807.js",
       "path---tags-visual-1f0357b5bb197bfc0807.js.map"
+    ],
+    "path---categories-ai": [
+      "path---categories-ai-24dc8d3959c84ee19f11.js",
+      "path---categories-ai-24dc8d3959c84ee19f11.js.map"
     ],
     "path---categories-nlg": [
       "path---categories-nlg-3aa3b953de3c914131c3.js",
