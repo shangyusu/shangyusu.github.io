@@ -7,9 +7,10 @@ class Post extends React.Component {
   render() {
     const { title, date, category, description, conference } = this.props.data.node.frontmatter;
     const { slug, categorySlug } = this.props.data.node.fields;
+    const index = this.props.index;
 
     let d = description.split("Shang-Yu Su");
-
+    // console.log(this.props);
     /*
     return (
       <div className="post">
@@ -57,7 +58,7 @@ class Post extends React.Component {
       <div className="post">
         <div className="post__meta">
           <span className="post__meta-time">
-            {conference}
+            {index+1}. {conference}
           </span>
           <span className="post__meta-divider" />
           <span className="post__meta-category" key={categorySlug}>

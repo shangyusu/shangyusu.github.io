@@ -5,7 +5,7 @@ layout: post
 draft: false
 path: "/posts/aaai2019-dstc7-hrt/"
 category: "Dialogue"
-conference: "AAAI 2019 - DSTC7"
+conference: "DSTC7/Computer Speech and Language 2020"
 tags:
   - "Dialogue"
   - "Response Selection"
@@ -13,6 +13,8 @@ description: "Ting-Rui Chiang, Chao-Wei Huang, Shang-Yu Su, and Yun-Nung Chen"
 ---
 
 <b>This paper is published in the 7th Dialog System Technology Challenge (DSTC7) in the Proceedings of Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019 - DSTC7).</b>
+
+<b>NOTE: Also published in Computer Speech and Language (Journal, 2020)</b>
 
 Full paper:
 <a href="./AAAI_2019___DSTC_Track_1_2.pdf" target="_blank">Here</a>

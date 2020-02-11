@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://www.shangyusu.com',
     title: 'Shang-Yu Su',
-    subtitle: 'PhD student in National Taiwan University, research interests cover Deep Learning, Natural Language Processing, and dialogue systems.',
+    subtitle: 'PhD student at National Taiwan University, research interests cover Deep Learning, Natural Language Processing, and dialogue systems.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [

@@ -4,6 +4,7 @@ import Link from 'gatsby-link';
 import Menu from '../Menu';
 import Links from '../Links';
 import profilePic from '../../pages/photo.jpg';
+import testPic from '../../pages/japan.png';
 import './style.scss';
 
 class Sidebar extends React.Component {

@@ -5,7 +5,7 @@ layout: post
 draft: false
 path: "/posts/aaai2019-dstc7-avsd/"
 category: "Dialogue"
-conference: "AAAI 2019 - DSTC7"
+conference: "DSTC7"
 tags:
   - "Dialogue"
   - "Visual"

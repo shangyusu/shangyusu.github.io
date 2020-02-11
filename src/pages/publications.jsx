@@ -10,8 +10,8 @@ class Publications extends React.Component {
 
     const posts = this.props.data.allMarkdownRemark.edges;
     
-    posts.forEach((post) => {
-      items.push(<Post data={post} key={post.node.fields.slug} />);
+    posts.forEach((post, i) => {
+      items.push(<Post data={post} key={post.node.fields.slug} index={i} />);
     });
   
     return (

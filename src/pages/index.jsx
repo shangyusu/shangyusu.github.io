@@ -4,7 +4,8 @@ import Post from '../components/Post';
 import Sidebar from '../components/Sidebar';
 import Link from 'gatsby-link';
 import profilePic from './index_photo.png';
-import resume from './shang-yu_resume_20190806.pdf';
+import testPic from './japan.png';
+import resume from './shang-yu_resume_20200211.pdf';
 
 
 class IndexRoute extends React.Component {
@@ -17,7 +18,11 @@ class IndexRoute extends React.Component {
     posts.forEach((post) => {
       items.push(<Post data={post} key={post.node.fields.slug} />);
     });
-  
+
+                <Link to="/">
+                  <img src={testPic} style={{ maxHeight: "30%" }} /> 
+                </Link>
+
     return (
       <div>
         <Helmet>
@@ -49,15 +54,15 @@ class IndexRoute extends React.Component {
             <div style={{ display: "flex", justifyContent: "space-between" }}>
               <div style={{ width: "60%" }}>
                 <p>
-                  Shang-Yu Su (蘇上育) was born in Kaohsiung, Taiwan. 
-                  Su is a PhD student in the department of Computer Science and Information Engineering in National Taiwan University;
-                  he received his bachelor degree from the department of Electrical Engineering.
-                  <b> He is working with Prof.<a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen </a> on various research topics about Natural Language Processing,
-                  Deep Learning, and dialogue systems. </b> 
-                  <b> He is an applied scientist intern at Amazon, Sunnyvale (Alexa AI), working with Dilek Hakkani-Tur and Mihail Eric. </b> 
-                  Previously, he interned at Microsoft, Redmond, advised by Jianfeng Gao and Xiujun Li.
+                  I am Shang-Yu Su (蘇上育) from Taiwan, a PhD student in the department of Computer Science and Information Engineering at National Taiwan University.
+                  <b> Now I am working with Prof.<a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen </a> on various research topics about Natural Language Processing,
+                  Deep Learning, and dialogue systems. </b>
+                  I received my bachelor's degree from the department of Electrical Engineering.
+                 
+                  Previously, I was an applied scientist intern at Amazon (Alexa AI), working with Dilek Hakkani-Tur and Mihail Eric;
+                  I also interned at Microsoft, advised by Jianfeng Gao and Xiujun Li.
                   <br/>
-                  Before starting doing research, he also joined Yahoo! and Microsoft in Taiwan as a software engineering intern.
+                  Before starting doing research, I also joined Yahoo! and Microsoft in Taiwan as a software engineering intern.
                   <br/>
                   For more details, check out my full <a href={resume} target="_blank">CV/resume </a>
                   and also feel free to contact me via email: <a href="mailto:shangyusu.tw@gmail.com">shangyusu.tw@gmail.com.</a> 
