@@ -13,7 +13,7 @@ tags:
 description: "Shang-Yu Su, Chao-Wei Huang, and Yun-Nung Chen"
 ---
 
-<b>This paper is published in Proceedings of The 57th Annual Meeting of the Association for Computational Linguistics (ACL).</b>
+<b>This paper is published in Proceedings of The 57th Annual Meeting of the Association for Computational Linguistics (ACL2019).</b>
 
 
 Full paper:

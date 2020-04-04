@@ -3,7 +3,7 @@ import Helmet from 'react-helmet';
 import Post from '../components/Post';
 import Sidebar from '../components/Sidebar';
 
-class Publications extends React.Component {
+class Teaching extends React.Component {
   render() {
     const items = [];
     const { title, subtitle } = this.props.data.site.siteMetadata;
@@ -31,10 +31,10 @@ class Publications extends React.Component {
   }
 }
 
-export default Publications;
+export default Teaching;
 
 export const pageQuery = graphql`
-  query PublicationsQuery {
+  query TeachingQuery {
     site {
       siteMetadata {
         title

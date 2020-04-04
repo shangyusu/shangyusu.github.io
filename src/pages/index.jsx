@@ -5,7 +5,7 @@ import Sidebar from '../components/Sidebar';
 import Link from 'gatsby-link';
 import profilePic from './index_photo.png';
 import testPic from './japan.png';
-import resume from './shang-yu_resume_20200211.pdf';
+import resume from './shang-yu_resume_20200404.pdf';
 
 
 class IndexRoute extends React.Component {
@@ -51,12 +51,13 @@ class IndexRoute extends React.Component {
         <Sidebar {...this.props} />
         <div className="content">
           <div className="content__inner" style={{ overflow: "scroll", height: "90vh" }}>
+            <p><b>News: (04/04/20) our paper was accepted by ACL2020!</b></p>
             <div style={{ display: "flex", justifyContent: "space-between" }}>
               <div style={{ width: "60%" }}>
                 <p>
                   I am Shang-Yu Su (蘇上育) from Taiwan, a PhD student in the department of Computer Science and Information Engineering at National Taiwan University.
-                  <b> Now I am working with Prof.<a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen </a> on various research topics about Natural Language Processing,
-                  Deep Learning, and dialogue systems. </b>
+                  <b> Now I am working with Prof.<a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen </a> on various research topics about Natural Language Processing with
+                  Deep Learning and dialogue systems. </b>
                   I received my bachelor's degree from the department of Electrical Engineering.
                  
                   Previously, I was an applied scientist intern at Amazon (Alexa AI), working with Dilek Hakkani-Tur and Mihail Eric;

@@ -14,6 +14,11 @@ module.exports = {
         label: 'Publications',
         path: '/publications/'
       }
+      ,
+      {
+        label: 'Teaching',
+        path: '/teaching/'
+      }
     ],
     author: {
       name: 'Shang-Yu Su',
