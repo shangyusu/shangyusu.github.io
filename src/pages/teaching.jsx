@@ -6,6 +6,7 @@ import Sidebar from '../components/Sidebar';
 import slides1 from './teaching_slides/200310_optimization.pdf';
 import slides2 from './teaching_slides/200317_practical_tips.pdf';
 import slides3 from './teaching_slides/200331_more_on_embeddings.pdf';
+import slides4 from './teaching_slides/200414_more_on_transformers.pdf';
 
 class Publications extends React.Component {
   render() {
@@ -27,7 +28,8 @@ class Publications extends React.Component {
 
     const video1 = "https://www.youtube.com/watch?v=ewNb46KswNo&feature=youtu.be";
     const video2 = "https://www.youtube.com/watch?v=nXRsd9DTSwA&feature=youtu.be";
-    const video3 = "";
+    const video3 = "https://www.youtube.com/watch?v=scvvl6ueHuM&feature=youtu.be";
+    const video4 = "https://www.youtube.com/watch?v=p4arkqf-B5w&feature=youtu.be";
 
 
     return (
@@ -46,18 +48,19 @@ class Publications extends React.Component {
               <br/>
               Lectured supplementary courses with <a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen</a>
               <br/>
-              Department of Computer Science and Information Engineering, 
+              Department of Computer Science and Information Engineering,
               <br/>
               National Taiwan University
               <br/>
               <em>Note: the courses are taught in Mandarin, the materials are in Engish</em>
             </p>
             <div>
-              <ul style={{listStyleType: "square" }}>
+              <ul style={{ listStyleType: "square" }}>
                 <li>Optimization: <a href={slides1} target="_blank">slides</a>, <a href={video1} target="_blank">YouTube</a></li>
                 <li>Practical Tips: <a href={slides2} target="_blank">slides</a>, <a href={video2} target="_blank">YouTube</a></li>
-                <li>More on Embeddings: <a href={slides3} target="_blank">slides</a> </li>
-              </ul> 
+                <li>More on Embeddings: <a href={slides3} target="_blank">slides</a>, <a href={video3} target="_blank">YouTube</a></li>
+                <li>More on Transformers: <a href={slides4} target="_blank">slides</a>, <a href={video4} target="_blank">YouTube</a></li>
+              </ul>
             </div>
           </div>
         </div>
