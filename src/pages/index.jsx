@@ -5,7 +5,7 @@ import Sidebar from '../components/Sidebar';
 import Link from 'gatsby-link';
 import profilePic from './index_photo.png';
 import testPic from './japan.png';
-import resume from './shang-yu_resume_20200404.pdf';
+import resume from './shang-yu_resume_20200430.pdf';
 
 
 class IndexRoute extends React.Component {

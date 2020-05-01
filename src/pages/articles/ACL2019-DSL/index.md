@@ -17,7 +17,7 @@ description: "Shang-Yu Su, Chao-Wei Huang, and Yun-Nung Chen"
 
 
 Full paper:
-<a href="./ACL_2019___Dual_Supervised_Learning2.pdf" target="_blank">Here</a>,
+<a href="./acl20192.pdf" target="_blank">Here</a>,
 <a href="https://arxiv.org/abs/1905.06196" target="_blank">arXiv</a>
 
 

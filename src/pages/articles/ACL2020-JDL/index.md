@@ -13,7 +13,11 @@ tags:
 description: "Shang-Yu Su, Chao-Wei Huang, and Yun-Nung Chen"
 ---
 
-<b>This paper will be published in Proceedings of The 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020).</b>
+Full paper:
+<a href="./acl2020.pdf" target="_blank">Here</a>,
+<a href="https://arxiv.org/abs/2004.14710" target="_blank">arXiv</a>
+
+<b>This paper is published in Proceedings of The 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020).</b>
 
 In modular dialogue systems, natural language understanding (NLU) and natural language generation (NLG) are two critical components, where NLU extracts the semantics from the given texts and NLG is to construct corresponding natural language sentences based on the input semantic representations.
 However, the dual property between understanding and generation has been rarely explored.
