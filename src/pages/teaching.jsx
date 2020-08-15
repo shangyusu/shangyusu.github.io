@@ -7,6 +7,8 @@ import slides1 from './teaching_slides/200310_optimization.pdf';
 import slides2 from './teaching_slides/200317_practical_tips.pdf';
 import slides3 from './teaching_slides/200331_more_on_embeddings.pdf';
 import slides4 from './teaching_slides/200414_more_on_transformers.pdf';
+import slides5 from './teaching_slides/200512_RL_for_dialogues.pdf';
+
 
 class Publications extends React.Component {
   render() {
@@ -30,6 +32,7 @@ class Publications extends React.Component {
     const video2 = "https://www.youtube.com/watch?v=nXRsd9DTSwA&feature=youtu.be";
     const video3 = "https://www.youtube.com/watch?v=scvvl6ueHuM&feature=youtu.be";
     const video4 = "https://www.youtube.com/watch?v=p4arkqf-B5w&feature=youtu.be";
+    const video5 = "https://www.youtube.com/watch?v=QIDvnxuW20U";
 
 
     return (
@@ -60,6 +63,7 @@ class Publications extends React.Component {
                 <li>Practical Tips: <a href={slides2} target="_blank">slides</a>, <a href={video2} target="_blank">YouTube</a></li>
                 <li>More on Embeddings: <a href={slides3} target="_blank">slides</a>, <a href={video3} target="_blank">YouTube</a></li>
                 <li>More on Transformers: <a href={slides4} target="_blank">slides</a>, <a href={video4} target="_blank">YouTube</a></li>
+                <li>RL for Dialogues: <a href={slides5} target="_blank">slides</a>, <a href={video5} target="_blank">YouTube</a></li>
               </ul>
             </div>
           </div>
