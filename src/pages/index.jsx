@@ -5,7 +5,7 @@ import Sidebar from '../components/Sidebar';
 import Link from 'gatsby-link';
 import profilePic from './index_photo.png';
 import testPic from './japan.png';
-import resume from './shang-yu_resume_20200904.pdf';
+import resume from './shang-yu_resume_20200918.pdf';
 
 
 class IndexRoute extends React.Component {
@@ -55,6 +55,7 @@ class IndexRoute extends React.Component {
             <span><b>(04/04/20) our paper was accepted by ACL2020!</b></span><br/>
             <span><b>(07/02/20) internship at Alexa AI started.</b></span><br/>
             <span><b>(07/31/20) passed the PhD qualifying exam.</b></span><br/>
+            <span><b>(09/16/20) two papers were accepted by EMNLP2020 (1 conference + 1 finding)!</b></span><br/>
             <div style={{ display: "flex", justifyContent: "space-between" }}>
               <div style={{ width: "60%" }}>
                 <p>
