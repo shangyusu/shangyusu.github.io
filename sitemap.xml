@@ -44,6 +44,8 @@
 <url> <loc>https://www.shangyusu.com/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/posts/slt2018-hnlg/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.shangyusu.com/posts/emnlp2020-l2kd/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.shangyusu.com/posts/emnlp2020-dual-inf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.shangyusu.com/publications/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

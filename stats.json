@@ -25,12 +25,12 @@
       "path---posts-icassp-2019-music-bf6201a424d8ed2f505a.js.map"
     ],
     "path---tags-nlu": [
-      "path---tags-nlu-2c0899be5d31809823ff.js",
-      "path---tags-nlu-2c0899be5d31809823ff.js.map"
+      "path---tags-nlu-f7c4ccffb7234d481da3.js",
+      "path---tags-nlu-f7c4ccffb7234d481da3.js.map"
     ],
     "path---publications": [
-      "path---publications-10c6ab89404168bc982e.js",
-      "path---publications-10c6ab89404168bc982e.js.map"
+      "path---publications-78d2a4d2b680c4a80d53.js",
+      "path---publications-78d2a4d2b680c4a80d53.js.map"
     ],
     "component---src-pages-teaching-jsx": [
       "component---src-pages-teaching-jsx-5b951e52577eae849781.js",
@@ -45,24 +45,28 @@
       "path---posts-humane-typography-in-the-digital-age-08165f52e348c5cc0959.js.map"
     ],
     "path---categories": [
-      "path---categories-0799058dbf5c98cae6f2.js",
-      "path---categories-0799058dbf5c98cae6f2.js.map"
+      "path---categories-7a20edbc8a377abe59ac.js",
+      "path---categories-7a20edbc8a377abe59ac.js.map"
     ],
     "component---src-pages-tags-jsx": [
       "component---src-pages-tags-jsx-e1306667a369780294ff.js",
       "component---src-pages-tags-jsx-e1306667a369780294ff.js.map"
     ],
     "path---tags-dialogue": [
-      "path---tags-dialogue-71bd9c2df696799d869e.js",
-      "path---tags-dialogue-71bd9c2df696799d869e.js.map"
+      "path---tags-dialogue-6dccf736e15d1f39bb87.js",
+      "path---tags-dialogue-6dccf736e15d1f39bb87.js.map"
     ],
     "path---tags-seq-2-seq": [
       "path---tags-seq-2-seq-1dae43c58fcd3a1ea372.js",
       "path---tags-seq-2-seq-1dae43c58fcd3a1ea372.js.map"
     ],
+    "path---posts-emnlp-2020-dual-inf": [
+      "path---posts-emnlp-2020-dual-inf-354068f870248b265245.js",
+      "path---posts-emnlp-2020-dual-inf-354068f870248b265245.js.map"
+    ],
     "path---tags": [
-      "path---tags-a5d9987bec283f738b17.js",
-      "path---tags-a5d9987bec283f738b17.js.map"
+      "path---tags-83aa1ab4389b6c8d2c66.js",
+      "path---tags-83aa1ab4389b6c8d2c66.js.map"
     ],
     "path---tags-ai": [
       "path---tags-ai-30c03879199afa44f4dd.js",
@@ -100,6 +104,10 @@
       "component---src-templates-category-template-jsx-cf1c8b990648253d5738.js",
       "component---src-templates-category-template-jsx-cf1c8b990648253d5738.js.map"
     ],
+    "path---posts-emnlp-2020-l-2-kd": [
+      "path---posts-emnlp-2020-l-2-kd-fff9343bc5f161ca3321.js",
+      "path---posts-emnlp-2020-l-2-kd-fff9343bc5f161ca3321.js.map"
+    ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
@@ -125,8 +133,8 @@
       "component---src-pages-categories-jsx-dc892dc56898ecd4183e.js.map"
     ],
     "path---index": [
-      "path---index-f9bff6b708ff29e5e737.js",
-      "path---index-f9bff6b708ff29e5e737.js.map"
+      "path---index-e2a0a56e4de05fe63b88.js",
+      "path---index-e2a0a56e4de05fe63b88.js.map"
     ],
     "component---src-pages-publications-jsx": [
       "component---src-pages-publications-jsx-f6fc429a2c263cc54efd.js",
@@ -147,12 +155,12 @@
       "build-js-styles.css.map"
     ],
     "path---teaching": [
-      "path---teaching-10c6ab89404168bc982e.js",
-      "path---teaching-10c6ab89404168bc982e.js.map"
+      "path---teaching-78d2a4d2b680c4a80d53.js",
+      "path---teaching-78d2a4d2b680c4a80d53.js.map"
     ],
     "path---categories-nlu-nlg": [
-      "path---categories-nlu-nlg-3437bac98b1d39b9d422.js",
-      "path---categories-nlu-nlg-3437bac98b1d39b9d422.js.map"
+      "path---categories-nlu-nlg-71dc9fa6b4ea1a1b9b5f.js",
+      "path---categories-nlu-nlg-71dc9fa6b4ea1a1b9b5f.js.map"
     ],
     "path---posts-book-ai": [
       "path---posts-book-ai-4b31ec1bf0cfa3a994f8.js",
@@ -183,8 +191,8 @@
       "path---tags-generation-16b23b50d53ac06202ef.js.map"
     ],
     "path---tags-nlg": [
-      "path---tags-nlg-eb439660b4c1910a9842.js",
-      "path---tags-nlg-eb439660b4c1910a9842.js.map"
+      "path---tags-nlg-dcf83bf35d12e4710575.js",
+      "path---tags-nlg-dcf83bf35d12e4710575.js.map"
     ],
     "path---tags-music-information-retrieval": [
       "path---tags-music-information-retrieval-18ca5cb20045680873b0.js",
@@ -199,8 +207,8 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-ba71ebefece2711a0b3c.js",
-      "component---src-pages-index-jsx-ba71ebefece2711a0b3c.js.map"
+      "component---src-pages-index-jsx-ae5f060d931d92799595.js",
+      "component---src-pages-index-jsx-ae5f060d931d92799595.js.map"
     ],
     "path---categories-dialogue": [
       "path---categories-dialogue-8b5a94aa055982228f9a.js",
@@ -215,8 +223,8 @@
       "path---posts-icassp-2019-comvae-1c72d0e477f42971f4d4.js.map"
     ],
     "app": [
-      "app-f905e26e8e28702790a2.js",
-      "app-f905e26e8e28702790a2.js.map"
+      "app-a4f47632a3363d9756ef.js",
+      "app-a4f47632a3363d9756ef.js.map"
     ],
     "path---categories-rl": [
       "path---categories-rl-455a2babd86d0842dd52.js",
