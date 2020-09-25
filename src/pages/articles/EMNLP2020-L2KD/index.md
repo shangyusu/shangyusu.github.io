@@ -1,23 +1,18 @@
 ---
-title: "Dual Inference for Improving Language Understanding and Generation"
-date: "2020-09-18T22:40:32.169Z"
+title: "Lifelong Language Knowledge Distillation"
+date: "2020-09-19T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/emnlp2020-dual-inf/"
-category: "NLU+NLG"
-conference: "EMNLP2020 (Findings)"
+path: "/posts/emnlp2020-l2kd/"
+category: "NLP"
+conference: "EMNLP2020"
 tags:
-  - "NLU"
-  - "NLG"
-  - "Dialogue"
-description: "Shang-Yu Su, Yung-Sung Chuang, and Yun-Nung Chen"
+  - "Lifelong Learning"
+  - "Knowledge Distillation"
+description: "Yung-Sung Chuang, Shang-Yu Su, and Yun-Nung Chen"
 ---
 
 
-<b>This paper will be published in Findings of EMNLP, Virtual, November 16-20, 2020. ACL.</b>
+<b>This paper will be published in Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020), Virtual, November 16-20, 2020. ACL.</b>
 
-Natural language understanding (NLU) and Natural language generation (NLG) tasks hold a strong dual relationship, where NLU aims at predicting semantic labels based on natural language utterances and NLG does the opposite.
-The prior work mainly focused on exploiting the duality in model training in order to obtain the models with better performance.
-However, regarding the fast-growing scale of models in the current NLP area, sometimes we may have difficulty retraining whole NLU and NLG models.
-To better address the issue, this paper proposes to leverage the duality in the inference stage without the need of retraining.
-The experiments on three benchmark datasets demonstrate the effectiveness of the proposed method in both NLU and NLG, providing the great potential of practical usage.
+It is challenging to perform lifelong language learning (LLL) on a stream of different tasks without any performance degradation comparing to the multi-task counterparts. To address this issue, we present Lifelong Language Knowledge Distillation (L2KD), a simple but efficient method that can be easily applied to existing LLL architectures in order to mitigate the degradation. Specifically, when the LLL model is trained on a new task, we assign a teacher model to first learn the new task, and pass the knowledge to the LLL model via knowledge distillation. Therefore, the LLL model can better adapt to the new task while keeping the previously learned knowledge. Experiments show that the proposed L2KD consistently improves previous state-of-the-art models, and the degradation comparing to multi-task models in LLL tasks is well mitigated for both sequence generation and text classification tasks.
