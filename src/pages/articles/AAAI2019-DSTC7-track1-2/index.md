@@ -3,7 +3,7 @@ title: "Learning Multi-Level Information for Dialogue Response Selection by High
 date: "2018-12-5T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/aaai2019-dstc7-hrt/"
+path: "/publications/aaai2019-dstc7-hrt/"
 category: "Dialogue"
 conference: "DSTC7/Computer Speech and Language 2020"
 tags:

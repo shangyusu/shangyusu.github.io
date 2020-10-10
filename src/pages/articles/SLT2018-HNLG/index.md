@@ -3,7 +3,7 @@ title: "Investigating Linguistic Pattern Ordering in Hierarchical Natural Langua
 date: "2018-09-4T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/slt2018-hnlg/"
+path: "/publications/slt2018-hnlg/"
 category: "NLG"
 conference: "SLT 2018"
 tags:

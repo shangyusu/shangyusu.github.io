@@ -3,7 +3,7 @@ title: "Knowledge-Grounded Response Generation with Deep Attentional Latent-Vari
 date: "2018-12-6T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/aaai2019-dstc7-cvae/"
+path: "/publications/aaai2019-dstc7-cvae/"
 category: "Dialogue"
 conference: "DSTC7/Computer Speech and Language 2020"
 tags:

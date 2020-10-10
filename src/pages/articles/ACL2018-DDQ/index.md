@@ -3,7 +3,7 @@ title: "Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Le
 date: "2018-02-10T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/acl2018-ddq/"
+path: "/publications/acl2018-ddq/"
 category: "RL"
 conference: "ACL 2018"
 tags:

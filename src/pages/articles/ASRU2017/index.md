@@ -3,7 +3,7 @@ title: "Dynamic Time-Aware Attention to Speaker Roles and Contexts for Spoken La
 date: "2017-09-02T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/asru2017/"
+path: "/publications/asru2017/"
 category: "NLU"
 conference: "ASRU 2017"
 tags:

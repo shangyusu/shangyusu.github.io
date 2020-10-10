@@ -3,7 +3,7 @@ title: "How Time Matters: Learning Time-Decay Attention for Contextual Spoken La
 date: "2018-02-03T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/naacl2018-nlu/"
+path: "/publications/naacl2018-nlu/"
 category: "NLU"
 conference: "NAACL 2018"
 tags:

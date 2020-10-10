@@ -3,7 +3,7 @@ title: "Dynamically Context-Sensitive Time-Decay Attention for Dialogue Modeling
 date: "2019-02-5T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/icassp2019-cnlu/"
+path: "/publications/icassp2019-cnlu/"
 category: "NLU"
 conference: "ICASSP2019"
 tags:

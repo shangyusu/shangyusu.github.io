@@ -3,7 +3,7 @@ title: "Compound Variational Auto-Encoder"
 date: "2019-02-6T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/icassp2019-comvae/"
+path: "/publications/icassp2019-comvae/"
 category: "DL"
 conference: "ICASSP2019"
 tags:

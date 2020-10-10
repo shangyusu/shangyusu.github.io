@@ -3,7 +3,7 @@ title: "Lifelong Language Knowledge Distillation"
 date: "2020-09-19T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/emnlp2020-l2kd/"
+path: "/publications/emnlp2020-l2kd/"
 category: "NLP"
 conference: "EMNLP2020"
 tags:

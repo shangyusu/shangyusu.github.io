@@ -3,7 +3,7 @@ title: "Reactive Multi-Stage Feature Fusion for Multimodal Dialogue Modeling"
 date: "2018-12-8T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/aaai2019-dstc7-avsd/"
+path: "/publications/aaai2019-dstc7-avsd/"
 category: "Dialogue"
 conference: "DSTC7"
 tags:

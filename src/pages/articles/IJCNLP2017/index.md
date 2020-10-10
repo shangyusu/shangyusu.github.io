@@ -3,7 +3,7 @@ title: Speaker Role Contextual Modeling for Language Understanding and Dialogue 
 date: "2017-08-19T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/humane-typography-in-the-digital-age/"
+path: "/publications/humane-typography-in-the-digital-age/"
 category: "NLU"
 conference: "IJCNLP 2017"
 tags:

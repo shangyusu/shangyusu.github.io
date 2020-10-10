@@ -3,7 +3,7 @@ title: "Modeling Melodic Feature Dependency with Modularized Variational Auto-En
 date: "2019-02-7T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/icassp2019-music/"
+path: "/publications/icassp2019-music/"
 category: "MIR"
 conference: "ICASSP2019"
 tags:

@@ -3,7 +3,7 @@ title: "Natural Language Generation by Hierarchical Decoding with Linguistic Pat
 date: "2018-02-02T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/naacl2018-nlg/"
+path: "/publications/naacl2018-nlg/"
 category: "NLG"
 conference: "NAACL 2018"
 tags:

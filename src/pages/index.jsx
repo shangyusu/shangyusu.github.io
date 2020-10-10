@@ -5,7 +5,7 @@ import Sidebar from '../components/Sidebar';
 import Link from 'gatsby-link';
 import profilePic from './index_photo.png';
 import testPic from './japan.png';
-import resume from './shang-yu_resume_20200918_v2.pdf';
+import resume from './shang-yu_resume_20201011.pdf';
 
 
 class IndexRoute extends React.Component {
@@ -41,6 +41,7 @@ class IndexRoute extends React.Component {
    
     // const cvLink = "https://drive.google.com/open?id=1txJy3CpGJBuSMqwHNsUS8TXjU_KvZOi9";
     const vivianLink = "https://www.csie.ntu.edu.tw/~yvchen/index.html";
+    const googleFellowshipBlog = "https://ai.googleblog.com/2020/10/announcing-2020-google-phd-fellows.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+blogspot/gJZg+(Google+AI+Blog)&m=1";
 
     return (
       <div>
@@ -52,10 +53,9 @@ class IndexRoute extends React.Component {
         <div className="content">
           <div className="content__inner" style={{ overflow: "scroll", height: "90vh" }}>
             <h4 style={{ marginTop: "1.0rem" }}>News:</h4>
-            <span><b>(04/04/20) our paper was accepted by ACL2020!</b></span><br/>
-            <span><b>(07/02/20) internship at Alexa AI started.</b></span><br/>
-            <span><b>(07/31/20) passed the PhD qualifying exam.</b></span><br/>
-            <span><b>(09/16/20) two papers were accepted by EMNLP2020 (1 conference + 1 finding)!</b></span><br/>
+            <span><b>(07/31/20) passed the PhD qualifying exam, I am a candidate now!</b></span><br/>
+            <span><b>(09/16/20) two papers were accepted by EMNLP2020 (1 conference + 1 finding).</b></span><br/>
+            <span><b>(10/01/20) I am fortunate to receive 2020 Google PhD Fellowship. (<a href={googleFellowshipBlog} target="_blank">link</a>)</b></span><br/>
             <div style={{ display: "flex", justifyContent: "space-between" }}>
               <div style={{ width: "60%" }}>
                 <p>

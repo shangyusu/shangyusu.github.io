@@ -3,7 +3,7 @@ title: "RAP-Net: Recurrent Attention Pooling Networks for Dialogue Response Sele
 date: "2018-12-4T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/aaai2019-dstc7-rapnet/"
+path: "/publications/aaai2019-dstc7-rapnet/"
 category: "Dialogue"
 conference: "DSTC7/Computer Speech and Language 2020"
 tags:

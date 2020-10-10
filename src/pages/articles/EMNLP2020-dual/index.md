@@ -3,7 +3,7 @@ title: "Dual Inference for Improving Language Understanding and Generation"
 date: "2020-09-18T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/emnlp2020-dual-inf/"
+path: "/publications/emnlp2020-dual-inf/"
 category: "NLU+NLG"
 conference: "EMNLP2020 (Findings)"
 tags:

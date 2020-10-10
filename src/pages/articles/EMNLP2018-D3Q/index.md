@@ -3,7 +3,7 @@ title: "Discriminative Deep Dyna-Q: Robust Planning for Dialogue Policy Learning
 date: "2018-08-13T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/emnlp2018-d3q/"
+path: "/publications/emnlp2018-d3q/"
 category: "RL"
 conference: "EMNLP 2018"
 tags:

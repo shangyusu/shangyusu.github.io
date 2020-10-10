@@ -3,7 +3,7 @@ title: "Towards Unsupervised Language Understanding and Generation by Joint Dual
 date: "2020-04-03T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/acl2020-jdl/"
+path: "/publications/acl2020-jdl/"
 category: "NLU+NLG"
 conference: "ACL2020"
 tags:

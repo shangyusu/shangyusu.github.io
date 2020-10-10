@@ -3,7 +3,7 @@ title: "Creative AI (A Section of \"Introduction to Artificial Intelligence\")"
 date: "2019-10-08T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/book-ai/"
+path: "/publications/book-ai/"
 category: "AI"
 conference: "BOOK"
 tags:

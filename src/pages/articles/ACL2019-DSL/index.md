@@ -3,7 +3,7 @@ title: "Dual Supervised Learning for Natural Language Understanding and Generati
 date: "2019-05-17T22:40:32.169Z"
 layout: post
 draft: false
-path: "/posts/acl2019-dsl/"
+path: "/publications/acl2019-dsl/"
 category: "NLU+NLG"
 conference: "ACL2019"
 tags:
