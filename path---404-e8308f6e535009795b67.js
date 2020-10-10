@@ -1,2 +1,0 @@
-webpackJsonp([0xe70826b53c04],{395:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Shang-Yu Su",subtitle:"MS student in National Taiwan University, research interests cover deep learning, natural language processing, and dialogue system.",copyright:"© All rights reserved.",menu:[{label:"About me",path:"/"},{label:"Articles",path:"/articles/"},{label:"Contact me",path:"/contact/"}],author:{name:"Shang-Yu Su",email:"#",telegram:"#",twitter:"#",github:"#",rss:"#",vk:"#"}}}},pathContext:{}}}});
-//# sourceMappingURL=path---404-e8308f6e535009795b67.js.map
