@@ -53,9 +53,9 @@ class IndexRoute extends React.Component {
         <div className="content">
           <div className="content__inner" style={{ overflow: "scroll", height: "90vh" }}>
             <h4 style={{ marginTop: "1.0rem" }}>News:</h4>
-            <span><b>(07/31/20) passed the PhD qualifying exam, I am a candidate now!</b></span><br/>
             <span><b>(09/16/20) two papers were accepted by EMNLP2020 (1 conference + 1 finding).</b></span><br/>
             <span><b>(10/01/20) I am fortunate to receive 2020 Google PhD Fellowship. (<a href={googleFellowshipBlog} target="_blank">link</a>)</b></span><br/>
+            <span><b>(10/12/20) internship at Google Research started.</b></span><br/>
             <div style={{ display: "flex", justifyContent: "space-between" }}>
               <div style={{ width: "60%" }}>
                 <p>
