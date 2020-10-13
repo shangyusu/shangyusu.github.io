@@ -15,6 +15,8 @@ description: "Shang-Yu Su, Yung-Sung Chuang, and Yun-Nung Chen"
 
 
 <b>This paper will be published in Findings of EMNLP, Virtual, November 16-20, 2020. ACL.</b>
+Full paper:
+<a href="https://arxiv.org/abs/2010.04246" target="_blank">arXiv</a>
 
 Natural language understanding (NLU) and Natural language generation (NLG) tasks hold a strong dual relationship, where NLU aims at predicting semantic labels based on natural language utterances and NLG does the opposite.
 The prior work mainly focused on exploiting the duality in model training in order to obtain the models with better performance.

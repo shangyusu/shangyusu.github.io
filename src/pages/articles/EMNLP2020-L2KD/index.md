@@ -16,7 +16,6 @@ description: "Yung-Sung Chuang, Shang-Yu Su, and Yun-Nung Chen"
 <b>This paper will be published in Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020), Virtual, November 16-20, 2020. ACL.</b>
 
 Full paper:
-<a href="./emnlp-2018-d3q.pdf" target="_blank">Here</a>,
-<a href="https://arxiv.org/abs/1808.09442" target="_blank">arXiv</a>
+<a href="https://arxiv.org/abs/2010.02123" target="_blank">arXiv</a>
 
 It is challenging to perform lifelong language learning (LLL) on a stream of different tasks without any performance degradation comparing to the multi-task counterparts. To address this issue, we present Lifelong Language Knowledge Distillation (L2KD), a simple but efficient method that can be easily applied to existing LLL architectures in order to mitigate the degradation. Specifically, when the LLL model is trained on a new task, we assign a teacher model to first learn the new task, and pass the knowledge to the LLL model via knowledge distillation. Therefore, the LLL model can better adapt to the new task while keeping the previously learned knowledge. Experiments show that the proposed L2KD consistently improves previous state-of-the-art models, and the degradation comparing to multi-task models in LLL tasks is well mitigated for both sequence generation and text classification tasks.
