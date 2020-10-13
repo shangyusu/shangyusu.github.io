@@ -15,6 +15,7 @@ description: "Shang-Yu Su, Yung-Sung Chuang, and Yun-Nung Chen"
 
 
 <b>This paper will be published in Findings of EMNLP, Virtual, November 16-20, 2020. ACL.</b>
+
 Full paper:
 <a href="https://arxiv.org/abs/2010.04246" target="_blank">arXiv</a>
 
