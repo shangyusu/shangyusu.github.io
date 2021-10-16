@@ -1,11 +1,11 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import Post from '../components/Post';
+// import Post from '../components/Post';
 import Sidebar from '../components/Sidebar';
 import Link from 'gatsby-link';
-import profilePic from './index_photo.png';
-import testPic from './japan.png';
-import resume from './shang-yu_resume_20210130.pdf';
+import profilePic from './stylelab_resume.jpg';
+// import testPic from './japan.png';
+import resume from './shang-yu_resume_20211017.pdf';
 
 
 class IndexRoute extends React.Component {
@@ -53,26 +53,26 @@ class IndexRoute extends React.Component {
         <div className="content">
           <div className="content__inner" style={{ overflow: "scroll", height: "90vh" }}>
             <h4 style={{ marginTop: "1.0rem" }}>News:</h4>
-            <span><b>(09/16/20) two papers were accepted by EMNLP2020 (1 conference + 1 finding).</b></span><br/>
             <span><b>(10/01/20) I am fortunate to receive 2020 Google PhD Fellowship. (<a href={googleFellowshipBlog} target="_blank">link</a>)</b></span><br/>
-            <span><b>(10/12/20) internship at Google Research started.</b></span><br/>
+            <span><b>(10/14/21) Officially received my Ph.D. degree.</b></span><br/>
+            <span><b>---> Will be available for full-time research scientist/engineer jobs after May, 2022.</b></span><br/>
             <div style={{ display: "flex", justifyContent: "space-between" }}>
-              <div style={{ width: "60%" }}>
+              <div style={{ width: "65%" }}>
                 <p>
-                  I am Shang-Yu Su (蘇上育) from Taiwan, a PhD candidate in the department of Computer Science and Information Engineering at National Taiwan University.
-                  <b> Now I am working with Prof.<a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen </a> on various research topics about Natural Language Processing with
-                  Deep Learning and Dialogue Systems. </b>
-                  I received my bachelor's degree from the department of Electrical Engineering.
-                 
-                  Previously, I was a research intern at Amazon (Alexa AI) and  Microsoft.
+                  I am Shang-Yu Su (蘇上育) from Taiwan, my research interests cover Natural Language Processing with and Dialogue Systems.
+                  I obtained my Ph.D. in Computer Science from National Taiwan University (NTU), 
+                  where I was fortunate to be advised by Prof. <a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen. </a><br/>
+                  I received B.S. degree from the department of Electrical Engineering.
+                  My research was supported by  <a href={googleFellowshipBlog} target="_blank">Google PhD Fellowship</a>. 
+                  Previously, I was a research intern at Google Research, Amazon (Alexa AI), and  Microsoft.
                   <br/>
-                  Before starting doing research, I also joined Yahoo! and Microsoft as a software engineering intern.
+                  Before starting doing research, I have also joined Yahoo! and Microsoft as a software engineering intern.
                   <br/>
                   For more details, check out my full <a href={resume} target="_blank">CV/resume </a>
                   and also feel free to contact me via email: <a href="mailto:shangyusu.tw@gmail.com">shangyusu.tw@gmail.com.</a> 
                 </p>
               </div>
-              <div style={{ width: "40%", padding: "3%"}} >
+              <div style={{ width: "35%", padding: "3%"}} >
                 <Link to="/">
                   <img src={profilePic} style={{ maxHeight: "100%" }} /> 
                 </Link>
