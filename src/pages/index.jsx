@@ -3,9 +3,10 @@ import Helmet from 'react-helmet';
 // import Post from '../components/Post';
 import Sidebar from '../components/Sidebar';
 import Link from 'gatsby-link';
-import profilePic from './stylelab_resume.jpg';
+import profilePic from './stylelab_resume_edited.jpg';
 // import testPic from './japan.png';
 import resume from './shang-yu_resume_20211017.pdf';
+import './index.scss';
 
 
 class IndexRoute extends React.Component {
@@ -51,13 +52,13 @@ class IndexRoute extends React.Component {
         </Helmet>
         <Sidebar {...this.props} />
         <div className="content">
-          <div className="content__inner" style={{ overflow: "scroll", height: "90vh" }}>
-            <h4 style={{ marginTop: "1.0rem" }}>News:</h4>
+          <div className="content__inner">
+            <h4 className="content__news__title">News:</h4>
             <span><b>(10/01/20) I am fortunate to receive 2020 Google PhD Fellowship. (<a href={googleFellowshipBlog} target="_blank">link</a>)</b></span><br/>
             <span><b>(10/14/21) Officially received my Ph.D. degree.</b></span><br/>
             <span><b>---> Will be available for full-time research scientist/engineer jobs after May, 2022.</b></span><br/>
-            <div style={{ display: "flex", justifyContent: "space-between" }}>
-              <div style={{ width: "65%" }}>
+            <div className="content__intro">
+              <div className="content__intro__text">
                 <p>
                   I am Shang-Yu Su (蘇上育) from Taiwan, my research interests cover Natural Language Processing with and Dialogue Systems.
                   I obtained my Ph.D. in Computer Science from National Taiwan University (NTU), 
@@ -72,7 +73,7 @@ class IndexRoute extends React.Component {
                   and also feel free to contact me via email: <a href="mailto:shangyusu.tw@gmail.com">shangyusu.tw@gmail.com.</a> 
                 </p>
               </div>
-              <div style={{ width: "35%", padding: "3%"}} >
+              <div className="content__intro__picture">
                 <Link to="/">
                   <img src={profilePic} style={{ maxHeight: "100%" }} /> 
                 </Link>

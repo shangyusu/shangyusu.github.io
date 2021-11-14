@@ -1,0 +1,45 @@
+@import "../assets/scss/variables";
+@import "../assets/scss/mixins";
+
+.content {
+    &__inner {
+        overflow: scroll;
+        height: 90vh; 
+
+        &__news__title {
+            margin-top: 1.0rem;
+        }
+    }
+
+    &__intro {
+        display: flex;
+        justify-content: space-between; 
+        flex-direction: column;
+
+        &__text {
+            width: 100%;
+        }
+        
+        &__picture {
+            // width: 35%;
+            padding: 3%;
+        }
+    }
+}
+
+@include breakpoint-md {
+    .content {
+        &__intro {
+            flex-direction: row;
+
+            &__text {
+                width: 60%;
+            }
+            
+            &__picture {
+                width: 40%;
+                // padding: 3%;
+            }
+        }
+    }
+}
