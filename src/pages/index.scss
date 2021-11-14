@@ -14,7 +14,7 @@
     &__intro {
         display: flex;
         justify-content: space-between; 
-        flex-direction: column;
+        flex-direction: column-reverse;
 
         &__text {
             width: 100%;
