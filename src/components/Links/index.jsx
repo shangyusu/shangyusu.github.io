@@ -19,6 +19,23 @@ class Links extends React.Component {
       <div className="links">
         <ul className="links__list">
           <li className="links__list-item">
+            <a href={'https://www.github.com/shangyusu'} target="_blank" >
+              <i className="icon-github" />
+            </a>
+          </li>
+          <li className="links__list-item">
+            <a href={'https://www.linkedin.com/in/shangyusu/'} target="_blank" >
+              <i className="icon-linkedin" />
+            </a>
+          </li>
+          <li className="links__list-item">
+            <a href={'https://scholar.google.com.tw/citations?user=5aGJKn4AAAAJ'} target="_blank" >
+              <i className="icon-graduation-cap" />
+            </a>
+          </li>
+        </ul>
+        <ul className="links__list">
+          <li className="links__list-item">
             <a href={'https://www.facebook.com/shangyusu.tw'} target="_blank" >
               <i className="icon-facebook" />
             </a>
@@ -29,23 +46,8 @@ class Links extends React.Component {
             </a>
           </li>
           <li className="links__list-item">
-            <a href={'https://www.github.com/shangyusu'} target="_blank" >
-              <i className="icon-github" />
-            </a>
-          </li>
-          <li className="links__list-item">
-            <a href={'https://www.linkedin.com/in/shang-yu-su-00972ba8/'} target="_blank" >
-              <i className="icon-linkedin" />
-            </a>
-          </li>
-          <li className="links__list-item">
             <a href={'https://twitter.com/ShangYuSu'} target="_blank" >
               <i className="icon-twitter" />
-            </a>
-          </li>
-          <li className="links__list-item">
-            <a href={'https://scholar.google.com.tw/citations?user=5aGJKn4AAAAJ'} target="_blank" >
-              <i className="icon-graduation-cap" />
             </a>
           </li>
         </ul>
