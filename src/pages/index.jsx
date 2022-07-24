@@ -62,7 +62,7 @@ class IndexRoute extends React.Component {
             <div className="content__intro">
               <div className="content__intro__text">
                 <p>
-                  I am Shang-Yu Su (蘇上育) from Taiwan, my research interests cover Natural Language Processing with and Dialogue Systems.
+                  I am Shang-Yu Su (蘇上育) from Taiwan, my research interests cover Natural Language Processing with Deep Learning and Dialogue Systems.
                   I obtained my Ph.D. in Computer Science from National Taiwan University (NTU), 
                   where I was fortunate to be advised by Prof. <a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen. </a><br/>
                   I received B.S. degree from the department of Electrical Engineering.
