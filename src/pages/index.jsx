@@ -5,7 +5,7 @@ import Sidebar from '../components/Sidebar';
 import Link from 'gatsby-link';
 import profilePic from './stylelab_resume_edited.jpg';
 // import testPic from './japan.png';
-import resume from './shang-yu_resume_20220723.pdf';
+import resume from './shang-yu_resume_20220818.pdf';
 import './index.scss';
 
 
