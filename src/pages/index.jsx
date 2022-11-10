@@ -5,7 +5,7 @@ import Sidebar from '../components/Sidebar';
 import Link from 'gatsby-link';
 import profilePic from './stylelab_resume_edited.jpg';
 // import testPic from './japan.png';
-import resume from './shang-yu_resume_20220818.pdf';
+import resume from './shang-yu_resume_20221111.pdf';
 import './index.scss';
 
 
@@ -44,6 +44,7 @@ class IndexRoute extends React.Component {
     const vivianLink = "https://www.csie.ntu.edu.tw/~yvchen/index.html";
     const googleFellowshipBlog = "https://ai.googleblog.com/2020/10/announcing-2020-google-phd-fellows.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+blogspot/gJZg+(Google+AI+Blog)&m=1";
     const foxconnTechAward = "https://www.facebook.com/story.php?story_fbid=1316062665500089&id=313637069075992";
+    const bestThesisAward = "https://www.aclclp.org.tw/grants_c.php";
 
     return (
       <div>
@@ -55,10 +56,9 @@ class IndexRoute extends React.Component {
         <div className="content">
           <div className="content__inner">
             <h4 className="content__news__title">News:</h4>
-            <span><b>(10/01/2020) Received <a href={googleFellowshipBlog} target="_blank">2020 Google PhD Fellowship (Natural Language Processing)</a>.</b></span><br/>
-            <span><b>(10/14/2021) Officially obtained my Ph.D. degree.</b></span><br/>
             <span><b>(11/24/2021) Received <a href={foxconnTechAward} target="_blank">2021 Foxconn Technology Award</a>.</b></span><br/>
-            <span><b>---> Will be available for full-time research scientist/engineer jobs after August, 2022.</b></span><br/>
+            <span><b>(7/19/2022) One paper accepted by SIGDIAL2022.</b></span><br/>
+            <span><b>(10/18/2022) Received <a href={bestThesisAward} target="_blank">2022 ACLCLP Best Thesis Award</a>.</b></span><br/>
             <div className="content__intro">
               <div className="content__intro__text">
                 <p>

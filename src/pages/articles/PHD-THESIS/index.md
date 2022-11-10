@@ -14,9 +14,10 @@ tags:
 description: "Shang-Yu Su"
 ---
 
+<b>This thesis was recognized by <a href="https://www.aclclp.org.tw/grants_c.php" target="_blank">ACLCLP Best Thesis Award (2022)</a>.</b>
 
 Resources:
-<a href="./PhD_Thesis_Su_v1.1.pdf" target="_blank">full thesis</a>,
+<a href="./PhD_Thesis_Shang_Yu_Su_cover.pdf" target="_blank">full thesis</a>,
 <a href="https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=6nzfZD/record?r1=1&h1=1" target="_blank">NDLTD</a>,
 <a href="./defense_v1.0.pdf" target="_blank">slides</a>.
 
