@@ -5,7 +5,7 @@ import Sidebar from '../components/Sidebar';
 import Link from 'gatsby-link';
 import profilePic from './stylelab_resume_edited.jpg';
 // import testPic from './japan.png';
-import resume from './shang-yu_resume_20221111.pdf';
+import resume from './shang-yu_resume_20230211.pdf';
 import './index.scss';
 
 
@@ -45,6 +45,8 @@ class IndexRoute extends React.Component {
     const googleFellowshipBlog = "https://ai.googleblog.com/2020/10/announcing-2020-google-phd-fellows.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+blogspot/gJZg+(Google+AI+Blog)&m=1";
     const foxconnTechAward = "https://www.facebook.com/story.php?story_fbid=1316062665500089&id=313637069075992";
     const bestThesisAward = "https://www.aclclp.org.tw/grants_c.php";
+    const taaiThesisAward = "http://www.taai.org.tw/content/636c6f6843baf300176b43ce";
+    const rit = "https://rit.rakuten.com/";
 
     return (
       <div>
@@ -56,20 +58,22 @@ class IndexRoute extends React.Component {
         <div className="content">
           <div className="content__inner">
             <h4 className="content__news__title">News:</h4>
-            <span><b>(11/24/2021) Received <a href={foxconnTechAward} target="_blank">2021 Foxconn Technology Award</a>.</b></span><br/>
-            <span><b>(7/19/2022) One paper accepted by SIGDIAL2022.</b></span><br/>
             <span><b>(10/18/2022) Received <a href={bestThesisAward} target="_blank">2022 ACLCLP Best Thesis Award</a>.</b></span><br/>
+            <span><b>(11/11/2022) Received <a href={taaiThesisAward} target="_blank">2022 TAAI PhD Thesis Award (Honorable Mention)</a>.</b></span><br/>
+            <span><b>(2/1/2023) Joined Rakuten Institute of Technology as a Research Scientist.</b></span><br/>
             <div className="content__intro">
               <div className="content__intro__text">
                 <p>
-                  I am Shang-Yu Su (蘇上育) from Taiwan, my research interests cover Natural Language Processing with Deep Learning and Dialogue Systems.
+                  Research Scientist at <a href={rit} target="_blank">Rakuten Institute of Technology</a>.
+                  <br/>
+                  I am Shang-Yu Su (蘇上育), my research interests cover Natural Language Processing with Deep Learning, Dialogue Systems, and Search/Recommendation Systems.
+                  <br/>
                   I obtained my Ph.D. in Computer Science from National Taiwan University (NTU), 
-                  where I was fortunate to be advised by Prof. <a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen. </a><br/>
+                  where I was fortunate to be advised by Prof. <a href={vivianLink} target="_blank">Yun-Nung (Vivian) Chen. </a>
                   I received B.S. degree from the department of Electrical Engineering.
+                  <br/>
                   My research was supported by  <a href={googleFellowshipBlog} target="_blank">Google PhD Fellowship</a>. 
                   Previously, I was a research intern at Google Research, Amazon (Alexa AI), and  Microsoft.
-                  <br/>
-                  Before starting doing research, I have also joined Yahoo! and Microsoft as a software engineering intern.
                   <br/>
                   For more details, check out my full <a href={resume} target="_blank">CV/resume </a>
                   and also feel free to contact me via email: <a href="mailto:shangyusu.tw@gmail.com">shangyusu.tw@gmail.com.</a> 
