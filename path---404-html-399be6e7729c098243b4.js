@@ -1,0 +1,2 @@
+webpackJsonp([0xa2868bfb69fc],{439:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Shang-Yu Su",subtitle:"Researcher of Natural Language Processing.",copyright:"© All rights reserved.",menu:[{label:"About me",path:"/"},{label:"Publications",path:"/publications/"}],author:{name:"Shang-Yu Su",email:"#",telegram:"#",twitter:"#",github:"#",rss:"#",vk:"#"}}}},pathContext:{}}}});
+//# sourceMappingURL=path---404-html-399be6e7729c098243b4.js.map
