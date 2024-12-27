@@ -1,0 +1,2 @@
+webpackJsonp([0xa2868bfb69fc],{440:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Shang-Yu Su",subtitle:"Researcher of Natural Language Processing, Information Retrieval, and Search/Recommendation Systems.",copyright:"© All rights reserved.",menu:[{label:"About me",path:"/"},{label:"Publications",path:"/publications/"}],author:{name:"Shang-Yu Su",email:"#",telegram:"#",twitter:"#",github:"#",rss:"#",vk:"#"}}}},pathContext:{}}}});
+//# sourceMappingURL=path---404-html-5b7547ff1a6c39af8ace.js.map
