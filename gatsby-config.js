@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://www.shangyusu.com',
     title: 'Shang-Yu Su',
-    subtitle: 'Researcher of Natural Language Processing.',
+    subtitle: 'Researcher of Natural Language Processing, Information Retrieval, and Search/Recommendation Systems.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
